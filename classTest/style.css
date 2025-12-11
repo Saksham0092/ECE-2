@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #b5a8a1;
+    background-color: #b5a1a1;
     margin: 20px;
     text-align: center;
 
 
 }
 h1 {
-    color: rgb(0, 0, 0);
+    color: rgba(252, 70, 70, 0.521);
     margin-bottom: 30px;
 
 }
@@ -15,7 +15,7 @@ h1 {
     background-color: white;
     border: 2px solid gray;
     width: 300px;
-    margin: 0 auto;
+    margin: auto;
     padding: 15px;
     border-radius: 8px;
 }

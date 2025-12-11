@@ -17,7 +17,7 @@ body {
 }
 
 .card {
-  background-color: white;
+  background-color: rgb(243, 239, 245);
   width: 220px;
   text-align: center;
   border-radius: 10px;
@@ -28,7 +28,7 @@ body {
 }
 
 .circle {
-  background-color: #ff9500;
+  background-color: #ef720b;
   color: white;
   font-weight: bold;
   font-size: 20px;
